@@ -220,11 +220,8 @@ Agriadvisory_hackathon/
 │       └── style.css
 │
 └── README.md
-
 10. Project Goal
-
 To empower Indian farmers by providing accessible, multilingual agricultural information through a simple digital platform and support better-informed farming decisions.
-
 Project Type: Web Application Prototype
 
-Developed By: Student Project Team
+Deve
