@@ -224,4 +224,4 @@ Agriadvisory_hackathon/
 To empower Indian farmers by providing accessible, multilingual agricultural information through a simple digital platform and support better-informed farming decisions.
 Project Type: Web Application Prototype
 
-Deve
+D
