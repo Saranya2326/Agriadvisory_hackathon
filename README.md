@@ -220,7 +220,7 @@ Agriadvisory_hackathon/
 │       └── style.css
 │
 └── README.md
-
+gunicorn
 10. Project Goal
 
 To empower Indian farmers by providing accessible, multilingual agricultural information through a simple digital platform and support better-informed farming decisions.
